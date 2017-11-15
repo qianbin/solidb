@@ -2,6 +2,8 @@
 
 A Distributed Content-Addressable Database
 
+[![Build Status](https://travis-ci.org/vechain/solidb.svg?branch=master)](https://travis-ci.org/vechain/solidb)
+
 ## Features
 
 * Immutability

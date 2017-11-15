@@ -15,5 +15,6 @@ before_script:
 
 script:
   - glide install
+  - make
   - make test
 
